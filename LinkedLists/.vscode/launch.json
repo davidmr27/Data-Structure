@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkListApp",
+            "request": "launch",
+            "mainClass": "Link.LinkListApp",
+            "projectName": "LinkedLists_c627c7c0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkListApp",
+            "request": "launch",
+            "mainClass": "LinkList.LinkListApp",
+            "projectName": "LinkedLists_c627c7c0"
+        }
+    ]
+}
